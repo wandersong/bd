@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "bd",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "2510e1e1-faed-4d5f-a4e0-86f3d665c9c6",
+			"database_name": "wans"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
